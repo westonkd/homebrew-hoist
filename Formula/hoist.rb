@@ -1,5 +1,5 @@
 class Hoist < Formula
-  desc "Compose multi-repo development environments and manage AI agent artifacts"
+  desc "Manage AI agent artifacts"
   homepage "https://github.com/westonkd/scaffold"
   version "0.1.2"
   license "Apache-2.0"
